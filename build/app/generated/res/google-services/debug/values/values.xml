@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">895701179138-v3rp2mp638tf7792thbhppvt4u1c81k6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">895701179138</string>
+    <string name="google_api_key" translatable="false">AIzaSyAK0CMIH1BrBEeyYTBfZalfL3Lp-OrbUQM</string>
+    <string name="google_app_id" translatable="false">1:895701179138:android:95c411bb172a369de4401b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAK0CMIH1BrBEeyYTBfZalfL3Lp-OrbUQM</string>
+    <string name="google_storage_bucket" translatable="false">animasyon2-818a3.appspot.com</string>
+    <string name="project_id" translatable="false">animasyon2-818a3</string>
+</resources>

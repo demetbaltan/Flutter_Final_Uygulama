@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895701179138",
+    "project_id": "animasyon2-818a3",
+    "storage_bucket": "animasyon2-818a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895701179138:android:95c411bb172a369de4401b",
+        "android_client_info": {
+          "package_name": "com.example.animasyon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895701179138-v3rp2mp638tf7792thbhppvt4u1c81k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0CMIH1BrBEeyYTBfZalfL3Lp-OrbUQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895701179138-v3rp2mp638tf7792thbhppvt4u1c81k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
